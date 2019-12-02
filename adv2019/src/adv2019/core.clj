@@ -1,4 +1,4 @@
-(ns adv2020.core
+(ns adv2019.core
   (:gen-class))
 
 (defn -main

@@ -1,6 +1,6 @@
-(ns adv2020.core-test
+(ns adv2019.core-test
   (:require [clojure.test :refer :all]
-            [adv2020.core :refer :all]))
+            [adv2019.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
